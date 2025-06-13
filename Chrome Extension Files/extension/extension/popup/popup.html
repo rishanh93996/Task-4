@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Productivity Tracker</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Productivity Tracker</h1>
+    <div class="stats">
+      <div class="stat productive">
+        <h3>Productive</h3>
+        <p id="productive-time">0h 0m</p>
+      </div>
+      <div class="stat unproductive">
+        <h3>Unproductive</h3>
+        <p id="unproductive-time">0h 0m</p>
+      </div>
+    </div>
+    <div class="progress-container">
+      <div class="progress-bar" id="productivity-bar"></div>
+    </div>
+    <p id="productivity-score">Productivity Score: 100%</p>
+    <button id="view-dashboard">View Dashboard</button>
+    <button id="settings">Settings</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
