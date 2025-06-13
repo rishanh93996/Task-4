@@ -1,0 +1,12 @@
+[
+  {"domain": "github.com", "category": "work"},
+  {"domain": "stackoverflow.com", "category": "education"},
+  {"domain": "leetcode.com", "category": "education"},
+  {"domain": "facebook.com", "category": "social"},
+  {"domain": "twitter.com", "category": "social"},
+  {"domain": "youtube.com", "category": "entertainment"},
+  {"domain": "netflix.com", "category": "entertainment"},
+  {"domain": "linkedin.com", "category": "work"},
+  {"domain": "reddit.com", "category": "social"},
+  {"domain": "medium.com", "category": "education"}
+]
